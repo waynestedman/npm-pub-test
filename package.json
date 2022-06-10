@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "nodemon": "^1.18.7"
+    "nodemon": "^2.0.16",
+    "sass": "^1.52.3"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
